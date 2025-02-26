@@ -1,2 +1,2 @@
-# llm
-Large Logic Model
+# LLM
+LLM is short for Large Logic Model.
